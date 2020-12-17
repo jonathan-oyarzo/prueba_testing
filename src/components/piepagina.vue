@@ -1,6 +1,6 @@
 <template>
   <footer class="bg-dark text-white py-5">
-  <p>Creado Por: Jonathan Oyarzo </p>
+  <p>Creado Por: Jonathan Oyarzo Aillapan</p>
   </footer>
 </template>
 
